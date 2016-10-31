@@ -1,0 +1,61 @@
+
+/* 
+ * Nav and header area items
+ */
+.navbar-brand h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#header-nav {
+  background-color: #f6b319;
+  background-color: plum;
+  border: 0;
+  border-bottom: 2px solid black;
+  border-radius: 0;
+}
+#menu-navbar {
+  padding: 0px;
+  background-color: plum;
+}
+#nav-list {
+  margin: 0px 0px;
+  background-color: lavender;
+}
+#nav-list hr {
+  margin: 0px 0px;
+  border-color: black;
+  margin-right: 3px;
+  margin-left: 3px;
+}
+#nav-list a:hover {
+  background: thistle;
+}
+#nav-list a span {
+  font-size: 1.3em;
+  color: black;
+}
+
+/* 
+ * Main content area items
+ */
+
+#main-content h2 {
+  font-weight: bold;
+  color: black;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+#main-content #chicken {
+  background-color: plum;
+  padding: 5px 15px;
+}
+#main-content #chicken h3 {
+  font-size: 1.5em;
+  font-weight: bold; 
+  margin: 0px;
+  margin-bottom: 10px;
+}
